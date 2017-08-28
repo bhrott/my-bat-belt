@@ -17,3 +17,7 @@ List of tools and platforms I use for personal and development management.
 
 ## Project Management
 [Basecamp](https://basecamp.com/): is cool but much expensive. I think it must have a free plan for small teams (or open source projects).
+
+
+## Mobile
+[brainfood-mobile-performance-vol3](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf): document for mobile performance experience and how it matters.
