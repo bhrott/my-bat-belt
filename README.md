@@ -17,6 +17,7 @@ List of tools and platforms I use for personal and development management.
 
 ## Project Management
 [Basecamp](https://basecamp.com/): is cool but much expensive. I think it must have a free plan for small teams (or open source projects).
+[Memo](https://memo.ai/): its very cool! It's a a place for organize notes for your team on slack.
 
 
 ## Mobile
