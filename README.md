@@ -26,3 +26,7 @@ List of tools and platforms I use for personal and development management.
 
 ## Development Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
+
+
+## Devops
+[Minio](https://minio.io/): distributed object storage server built for cloud applications and devops (i never used it, but it exists =P).
