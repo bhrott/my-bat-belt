@@ -34,3 +34,5 @@ List of tools and platforms I use for personal and development management.
 
 ## Devops
 [Minio](https://minio.io/): distributed object storage server built for cloud applications and devops (i never used it, but it exists =P).
+
+[Graylog](https://www.graylog.org/): With Graylog you can centrally collect the syslog and EventLog messages.
