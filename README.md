@@ -26,7 +26,9 @@ List of tools and platforms I use for personal and development management.
 
 [Ride Share: Advanced iOS & Firebase](https://devslopes.com/course/5924b5b7bb0e6676e21e5ca9?utm_source=yotpo&utm_medium=facebook&utm_campaign=social_push): ios and firebase course.
 
-## Development Articles
+[XCode Markup Formatting](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html): styleguide for code documentatio on xcode.
+
+## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
 
 
