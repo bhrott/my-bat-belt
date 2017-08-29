@@ -17,12 +17,14 @@ List of tools and platforms I use for personal and development management.
 
 ## Project Management
 [Basecamp](https://basecamp.com/): is cool but much expensive. I think it must have a free plan for small teams (or open source projects).
+
 [Memo](https://memo.ai/): its very cool! It's a a place for organize notes for your team on slack.
 
 
 ## Mobile
 [brainfood-mobile-performance-vol3](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf): document for mobile performance experience and how it matters.
 
+[Ride Share: Advanced iOS & Firebase](https://devslopes.com/course/5924b5b7bb0e6676e21e5ca9?utm_source=yotpo&utm_medium=facebook&utm_campaign=social_push): ios and firebase course.
 
 ## Development Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
