@@ -20,6 +20,7 @@ List of tools and platforms I use for personal and development management.
 
 [Memo](https://memo.ai/): its very cool! It's a a place for organize notes for your team on slack.
 
+[Favro](https://favro.com): incredible management tool, but has no free plan and for small teams, the minimun premium plan is expensive.
 
 ## Mobile
 [brainfood-mobile-performance-vol3](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf): document for mobile performance experience and how it matters.
