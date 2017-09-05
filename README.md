@@ -36,6 +36,15 @@ List of tools and platforms I use for personal and development management.
 
 [Building Prepd: The pros and cons of launching a product with React Native](https://hanno.co/blog/prepd-pros-cons-react-native/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured): article about releasing products with React-Native.
 
+[reactnavigation](https://reactnavigation.org/): navigation framework for react-native.
+
+[Pure component in react](https://60devs.com/pure-component-in-react.html): article teaching to use react pure components.
+
+[React component performance](https://moduscreate.com/react_component_rendering_performance/): article comparing performance of react components.
+
+
+
+
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
 
