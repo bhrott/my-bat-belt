@@ -29,6 +29,13 @@ List of tools and platforms I use for personal and development management.
 
 [XCode Markup Formatting](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html): styleguide for code documentatio on xcode.
 
+### React-Native
+[react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet): Extended StyleSheets for React Native.
+
+[react-native-s-layoutanimation-is-awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e): article about animations.
+
+[Building Prepd: The pros and cons of launching a product with React Native](https://hanno.co/blog/prepd-pros-cons-react-native/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured): article about releasing products with React-Native.
+
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
 
