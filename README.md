@@ -54,6 +54,7 @@ List of tools and platforms I use for personal and development management.
 
 [Graylog](https://www.graylog.org/): With Graylog you can centrally collect the syslog and EventLog messages.
 
+[Wiremock](http://wiremock.org/): WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
 
 ## Utils / Others / ...
 [cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
