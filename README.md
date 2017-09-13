@@ -55,5 +55,7 @@ List of tools and platforms I use for personal and development management.
 [Graylog](https://www.graylog.org/): With Graylog you can centrally collect the syslog and EventLog messages.
 
 
-## Utils
+## Utils / Others / ...
 [cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
+
+[gatsbyjs](https://www.gatsbyjs.org/): Blazing-fast static site generator for React.
