@@ -56,6 +56,8 @@ List of tools and platforms I use for personal and development management.
 
 [Wiremock](http://wiremock.org/): WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.
 
+[Dynatrace](https://www.dynatrace.com/): AI-powered, full stack, automated performance management.
+
 ## Utils / Others / ...
 [cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
 
