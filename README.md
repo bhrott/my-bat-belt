@@ -29,7 +29,7 @@ List of tools and platforms I use for personal and development management.
 
 [XCode Markup Formatting](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html): styleguide for code documentatio on xcode.
 
-### React-Native
+### React / React-Native
 [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet): Extended StyleSheets for React Native.
 
 [react-native-s-layoutanimation-is-awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e): article about animations.
@@ -42,7 +42,9 @@ List of tools and platforms I use for personal and development management.
 
 [React component performance](https://moduscreate.com/react_component_rendering_performance/): article comparing performance of react components.
 
+[Snack](https://snack.expo.io/): online code preview for react-native.
 
+[functional-components-vs-stateless-functional-components-vs-stateless-components](https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/): article about component types.
 
 
 ## Articles
