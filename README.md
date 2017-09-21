@@ -29,6 +29,8 @@ List of tools and platforms I use for personal and development management.
 
 [XCode Markup Formatting](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html): styleguide for code documentatio on xcode.
 
+[the-good-and-the-bad-of-xamarin-mobile-development](https://www.altexsoft.com/blog/mobile/the-good-and-the-bad-of-xamarin-mobile-development): article comparing xamarin to native development.
+
 ### React / React-Native
 [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet): Extended StyleSheets for React Native.
 
