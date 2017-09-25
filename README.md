@@ -66,3 +66,5 @@ List of tools and platforms I use for personal and development management.
 [cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
 
 [gatsbyjs](https://www.gatsbyjs.org/): Blazing-fast static site generator for React.
+
+[CodeCasts](https://codecasts.com.br/series): brazilian site with podcasts and courses.
