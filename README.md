@@ -51,6 +51,12 @@ List of tools and platforms I use for personal and development management.
 [functional-components-vs-stateless-functional-components-vs-stateless-components](https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/): article about component types.
 
 
+### iOS / Swift
+[RNCryptor](https://github.com/RNCryptor/RNCryptor): CCCryptor (AES encryption) wrappers for iOS and Mac in Swift.
+
+[keychain-swift](https://github.com/evgenyneu/keychain-swift): Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
+
+
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
 
@@ -64,6 +70,8 @@ List of tools and platforms I use for personal and development management.
 
 [Dynatrace](https://www.dynatrace.com/): AI-powered, full stack, automated performance management.
 
+[Hotjar](https://www.hotjar.com/): All-in-one Analytics & Feedback
+
 ## Utils / Others / ...
 [cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
 
@@ -71,4 +79,4 @@ List of tools and platforms I use for personal and development management.
 
 [CodeCasts](https://codecasts.com.br/series): brazilian site with podcasts and courses.
 
-[Hotjar](https://www.hotjar.com/): All-in-one Analytics & Feedback
+
