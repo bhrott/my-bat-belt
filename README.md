@@ -70,3 +70,5 @@ List of tools and platforms I use for personal and development management.
 [gatsbyjs](https://www.gatsbyjs.org/): Blazing-fast static site generator for React.
 
 [CodeCasts](https://codecasts.com.br/series): brazilian site with podcasts and courses.
+
+[Hotjar](https://www.hotjar.com/): All-in-one Analytics & Feedback
