@@ -26,6 +26,8 @@ List of tools and platforms I use for personal and development management.
 
 [Club House](https://clubhouse.io/): Intuitive and easy-to-use project management tools for software teams that want to see the big picture.
 
+[Pipefy](https://www.pipefy.com/platform/): Pipefy is a cloud-based business process management platform that empowers managers to build and execute any type of workflow.
+
 ## Mobile
 [brainfood-mobile-performance-vol3](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf): document for mobile performance experience and how it matters.
 
