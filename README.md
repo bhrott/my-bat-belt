@@ -24,6 +24,8 @@ List of tools and platforms I use for personal and development management.
 
 [Meistertask](https://www.meistertask.com/pt): Excelent platform. With integrations and simple like Trello.
 
+[Club House](https://clubhouse.io/): Intuitive and easy-to-use project management tools for software teams that want to see the big picture.
+
 ## Mobile
 [brainfood-mobile-performance-vol3](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf): document for mobile performance experience and how it matters.
 
