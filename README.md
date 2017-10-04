@@ -60,9 +60,12 @@ List of tools and platforms I use for personal and development management.
 [keychain-swift](https://github.com/evgenyneu/keychain-swift): Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 
 
-## NodeJS
+## NodeJS / NPM
 [serverless](https://serverless.com/): Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
+[cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
+
+[gatsbyjs](https://www.gatsbyjs.org/): Blazing-fast static site generator for React.
 
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
@@ -79,11 +82,7 @@ List of tools and platforms I use for personal and development management.
 
 [Hotjar](https://www.hotjar.com/): All-in-one Analytics & Feedback
 
-## Utils / Others / ...
-[cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
-
-[gatsbyjs](https://www.gatsbyjs.org/): Blazing-fast static site generator for React.
-
+## Podcasts
 [CodeCasts](https://codecasts.com.br/series): brazilian site with podcasts and courses.
 
 
