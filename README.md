@@ -67,6 +67,8 @@ List of tools and platforms I use for personal and development management.
 
 [gatsbyjs](https://www.gatsbyjs.org/): Blazing-fast static site generator for React.
 
+[shelljs](https://github.com/shelljs/shelljs): Portable Unix shell commands for Node.js
+
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
 
