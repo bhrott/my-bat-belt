@@ -62,6 +62,8 @@ List of tools and platforms I use for personal and development management.
 
 [Ride Share: Advanced iOS & Firebase](https://devslopes.com/course/5924b5b7bb0e6676e21e5ca9?utm_source=yotpo&utm_medium=facebook&utm_campaign=social_push): ios and firebase course.
 
+[JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD): An elegant and simple progress HUD for iOS and tvOS.
+
 ## NodeJS / NPM
 [serverless](https://serverless.com/): Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
