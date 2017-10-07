@@ -31,10 +31,9 @@ List of tools and platforms I use for personal and development management.
 ## Mobile
 [brainfood-mobile-performance-vol3](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf): document for mobile performance experience and how it matters.
 
-[Ride Share: Advanced iOS & Firebase](https://devslopes.com/course/5924b5b7bb0e6676e21e5ca9?utm_source=yotpo&utm_medium=facebook&utm_campaign=social_push): ios and firebase course.
+[buddybuild](https://www.buddybuild.com/): A continuous integration, continuous deployment, and user feedback platform for iOS and Android development teams.
 
-[XCode Markup Formatting](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html): styleguide for code documentatio on xcode.
-
+### Xamarin
 [the-good-and-the-bad-of-xamarin-mobile-development](https://www.altexsoft.com/blog/mobile/the-good-and-the-bad-of-xamarin-mobile-development): article comparing xamarin to native development.
 
 ### React / React-Native
@@ -59,6 +58,9 @@ List of tools and platforms I use for personal and development management.
 
 [keychain-swift](https://github.com/evgenyneu/keychain-swift): Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 
+[XCode Markup Formatting](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html): styleguide for code documentation on xcode.
+
+[Ride Share: Advanced iOS & Firebase](https://devslopes.com/course/5924b5b7bb0e6676e21e5ca9?utm_source=yotpo&utm_medium=facebook&utm_campaign=social_push): ios and firebase course.
 
 ## NodeJS / NPM
 [serverless](https://serverless.com/): Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
@@ -68,6 +70,8 @@ List of tools and platforms I use for personal and development management.
 [gatsbyjs](https://www.gatsbyjs.org/): Blazing-fast static site generator for React.
 
 [shelljs](https://github.com/shelljs/shelljs): Portable Unix shell commands for Node.js
+
+[openstf](https://openstf.io/): Fastest device testing Smartphone Test Farm
 
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
