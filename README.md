@@ -75,6 +75,8 @@ List of tools and platforms I use for personal and development management.
 
 [openstf](https://openstf.io/): Fastest device testing Smartphone Test Farm
 
+[top-10-common-nodejs-developer-mistakes](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes): article with common nodejs mistakes.
+
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
 
