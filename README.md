@@ -33,6 +33,8 @@ List of tools and platforms I use for personal and development management.
 
 [buddybuild](https://www.buddybuild.com/): A continuous integration, continuous deployment, and user feedback platform for iOS and Android development teams.
 
+[appfollow](https://appfollow.io/br): Reviews & Updates Monitor for App Store & Google Play
+
 ### Xamarin
 [the-good-and-the-bad-of-xamarin-mobile-development](https://www.altexsoft.com/blog/mobile/the-good-and-the-bad-of-xamarin-mobile-development): article comparing xamarin to native development.
 
