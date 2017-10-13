@@ -66,6 +66,8 @@ List of tools and platforms I use for personal and development management.
 
 [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD): An elegant and simple progress HUD for iOS and tvOS.
 
+[SwiftPhotoGallery](https://github.com/Inspirato/SwiftPhotoGallery): iOS photo gallery written in Swift.
+
 ## NodeJS / NPM
 [serverless](https://serverless.com/): Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
