@@ -12,6 +12,7 @@ List of tools and platforms I use for personal and development management.
 
 [producthunt](https://www.producthunt.com/): site with tools, apps, frameworks, whatever about tech
 
+[devhints](https://devhints.io): incredible list of dev cheatsheets
 
 ## Design / UX
 
