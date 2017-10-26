@@ -1,18 +1,21 @@
 # my-bat-belt
 List of tools and platforms I use for personal and development management.
 
-## Personal
-[Todoist](https://todoist.com)
-* What it is: a simple task management.
-* Why I use it: it's simple to track by time. I can schedule tasks to `each-day` or `each week`; I can separate tasks by projects; I can view tasks for `today`, `next 7 days` or grouped by importance.
+## Util
+[Todoist](https://todoist.com): task manager
 
-[Organizze](https://www.organizze.com.br/)
-* What it is: a personal financial controller.
-* Why I use it: to keep my debts under controll =P.
+[Organizze](https://www.organizze.com.br/): personal financial control
 
-[Toggl](https://www.toggl.com)
-* What it is: a time tracking.
-* Why I use it: in my job, i work with so many projects and many managers. It helps me to track extra hour jobs and make time reports for my company.
+[Toggl](https://www.toggl.com): time tracking
+
+[Any.do](https://web.any.do/): task manager
+
+[producthunt](https://www.producthunt.com/): site with tools, apps, frameworks, whatever about tech
+
+
+## Design / UX
+
+[klart](https://klart.co/colors?ref=producthunt): color palettes
 
 
 ## Project Management
@@ -68,6 +71,10 @@ List of tools and platforms I use for personal and development management.
 
 [SwiftPhotoGallery](https://github.com/Inspirato/SwiftPhotoGallery): iOS photo gallery written in Swift.
 
+[revealapp](https://revealapp.com/): Reveal brings powerful runtime view debugging to iOS developers
+
+[Auto-height cell for table view](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithSelf-SizingTableViewCells.html): article about auto-height cells on table view.
+
 ## NodeJS / NPM
 [serverless](https://serverless.com/): Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
@@ -82,6 +89,14 @@ List of tools and platforms I use for personal and development management.
 [top-10-common-nodejs-developer-mistakes](https://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes): article with common nodejs mistakes.
 
 [n](https://github.com/tj/n): node version manager.
+
+[nodejs-security-overview](https://nemethgergely.com/nodejs-security-overview/): article about security
+
+[napajs](https://github.com/Microsoft/napajs): a multi-threaded JavaScript runtime
+
+[mastering-the-node-js-core-modules-the-process-module](https://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more): article for core modules.
+
+
 
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
