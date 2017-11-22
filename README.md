@@ -32,6 +32,10 @@ List of tools and platforms I use for personal and development management.
 
 [Pipefy](https://www.pipefy.com/platform/): Pipefy is a cloud-based business process management platform that empowers managers to build and execute any type of workflow.
 
+[Tapwater](https://tapwater.co): Tapwater creates a timeline for a project as it progresses.
+
+[Daily.co](https://www.daily.co/): video calling.
+
 ## Mobile
 [brainfood-mobile-performance-vol3](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf): document for mobile performance experience and how it matters.
 
