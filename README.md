@@ -15,8 +15,9 @@ List of tools and platforms I use for personal and development management.
 [devhints](https://devhints.io): incredible list of dev cheatsheets
 
 ## Design / UX
-
 [klart](https://klart.co/colors?ref=producthunt): color palettes
+
+[responsive-screenshots](https://responsive-screenshots.com): responsive screenshots for your site.
 
 
 ## Project Management
