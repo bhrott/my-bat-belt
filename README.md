@@ -85,7 +85,13 @@ List of tools and platforms I use for personal and development management.
 
 [Design Code](https://designcode.io/): code learning
 
-## NodeJS / NPM
+[TinyConstraints](https://github.com/roberthein/TinyConstraints): lib for auto-layout
+
+
+### Android
+[Fragments](http://www.androidpro.com.br/fragments/): Aprenda a Usar os Fragments em 4 Passos
+
+## NodeJS / NPM / JS
 [serverless](https://serverless.com/): Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
 [cloc](https://www.npmjs.com/package/cloc): an npm package for count lines of code on a folder.
@@ -107,6 +113,10 @@ List of tools and platforms I use for personal and development management.
 [mastering-the-node-js-core-modules-the-process-module](https://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more): article for core modules.
 
 [NodeJS blockchain implementation: BrewChain: Chain+WebSockets+HTTP Server](http://www.darrenbeck.co.uk/blockchain/nodejs/nodejscrypto/): creating blockchain with nodejs.
+
+[superstruct](https://github.com/ianstormtaylor/superstruct): A simple and composable way to validate data in Javascript.
+
+[Building a Node.js App with TypeScript Tutorial](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
 
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
