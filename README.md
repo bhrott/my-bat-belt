@@ -81,6 +81,10 @@ List of tools and platforms I use for personal and development management.
 
 [Auto-height cell for table view](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/WorkingwithSelf-SizingTableViewCells.html): article about auto-height cells on table view.
 
+[yusei-nishiyama-mobilization-2017-building-ios-apps-at-scale/](https://academy.realm.io/posts/yusei-nishiyama-mobilization-2017-building-ios-apps-at-scale/)
+
+[Design Code](https://designcode.io/): code learning
+
 ## NodeJS / NPM
 [serverless](https://serverless.com/): Serverless is your toolkit for deploying and operating serverless architectures. Focus on your application, not your infrastructure.
 
@@ -102,7 +106,7 @@ List of tools and platforms I use for personal and development management.
 
 [mastering-the-node-js-core-modules-the-process-module](https://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more): article for core modules.
 
-
+[NodeJS blockchain implementation: BrewChain: Chain+WebSockets+HTTP Server](http://www.darrenbeck.co.uk/blockchain/nodejs/nodejscrypto/): creating blockchain with nodejs.
 
 ## Articles
 [Regra 80-20 para desenvolvimento de softwares PT-BR](https://imasters.com.br/desenvolvimento/aplicando-regra-8020-ao-desenvolvimento-de-software/?trace=1519021197&source=single)
@@ -118,6 +122,10 @@ List of tools and platforms I use for personal and development management.
 [Dynatrace](https://www.dynatrace.com/): AI-powered, full stack, automated performance management.
 
 [Hotjar](https://www.hotjar.com/): All-in-one Analytics & Feedback
+
+### Nginx
+[Understanding Nginx Server and Location Block Selection Algorithms](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms)
+
 
 ## Podcasts
 [CodeCasts](https://codecasts.com.br/series): brazilian site with podcasts and courses.
